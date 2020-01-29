@@ -11,11 +11,28 @@
 main { 
   display: grid;
   grid-template-columns: 1fr;
+
 }
 
 .cast {  
   display: flex;
   flex-wrap: wrap;
+}
+
+section {
+  width: 50%;
+}
+
+.plyr--full-ui input[type="range"] {
+  color: #09ff5e;
+}
+
+.plyr__time {
+  font-size: 50px;
+}
+
+.plyr button {
+  color: pink;
 }
 
 /* Media Queries */
