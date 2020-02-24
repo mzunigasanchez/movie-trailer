@@ -5,9 +5,7 @@
   * Outline Elements
 */
 
-* {
-    outline: 1px dotted black;
-}
+
 /* https://unpkg.com/plyr@3/dist/plyr.css */
 @import url('https://fonts.googleapis.com/css?family=Creepster|Lacquer|Roboto&display=swap');
 
